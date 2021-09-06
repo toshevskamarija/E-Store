@@ -1,5 +1,5 @@
 # E-Store
-E-store software application that retrieves products in JSON format.  
+E-store program that retrieves products in JSON format.  
 
 -prints products by category  
 -sorts them alphabetically within the group  
